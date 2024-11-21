@@ -23,5 +23,6 @@ Full 1.0 version coming soon!<br>
 ✏️ **Drawing Mode**: Unlock the ability to draw directly on your sticky notes.<br>
 🔔 **Reminders & Notifications**: Set reminders to never forget your important tasks—get notified to check or save your notes whenever you need a prompt.<br>
 <br>
+**Contact and Contributions**:<br>
 🤝 **Contribute**: Help me improve "Pyst-it"! Fork the repo, make changes, and submit a pull request.<br>
 📧 **Contact:** If you have any questions or feedback, reach out at [kauarodr2005@gmail.com].<br>
