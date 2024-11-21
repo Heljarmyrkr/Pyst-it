@@ -20,5 +20,8 @@ Full 1.0 version coming soon!<br>
 **Planned Features for Version 1.0:**
 
 ✍️ **Customizable Fonts**: Choose from a variety of stylish fonts to give your notes a personal touch and make them truly yours.<br>
-✏️ **Drawing Mod**e: Unlock the ability to draw directly on your sticky notes.<br>
+✏️ **Drawing Mode**: Unlock the ability to draw directly on your sticky notes.<br>
 🔔 **Reminders & Notifications**: Set reminders to never forget your important tasks—get notified to check or save your notes whenever you need a prompt.<br>
+<br>
+🤝 **Contribute**: Help me improve "Pyst-it"! Fork the repo, make changes, and submit a pull request.<br>
+📧 **Contact:** If you have any questions or feedback, reach out at [kauarodr2005@gmail.com].<br>
