@@ -1,4 +1,4 @@
 # Pyst-it
 A simple sticky notes app.
 
-![Imagem](Teste.png)
+![Imagem](pic1.png)
