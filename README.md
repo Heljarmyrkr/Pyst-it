@@ -16,4 +16,9 @@ A simple sticky notes app.
   <img src="Images/pic1.png" alt="Imagem">
 </p>
 
-Full 1.0 version coming soon! 
+Full 1.0 version coming soon!
+Planned Features for Version 1.0
+
+✍️ **Customizable Fonts**: Choose from a variety of stylish fonts to give your notes a personal touch and make them truly yours.<br>
+✏️ **Drawing Mod**e: Unlock the ability to draw directly on your sticky notes—create sketches, diagrams, or doodles to enhance your notes with creativity.<br>
+🔔 **Reminders & Notifications**: Set reminders to never forget your important tasks—get notified to check or save your notes whenever you need a prompt.<br>
