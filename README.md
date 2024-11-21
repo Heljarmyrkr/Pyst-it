@@ -1,8 +1,11 @@
 # Pyst-it📝
 A simple sticky notes app.
 
-  ![Imagem](logo.png)
-
+<p align="center">
+  <img src="logo.png" alt="Imagem">
+</p>
 
 Open how many you want!
-![Imagem](pic1.png)
+<p align="center">
+  <img src="pic1.png" alt="Imagem">
+</p>
