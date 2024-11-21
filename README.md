@@ -1,4 +1,4 @@
-# Pyst-it<img src="Images/icon.png" alt="Ícone" width="20">
+# Pyst-it<img src="Images/iconicon.png" alt="Ícone" width="20">
 A simple sticky notes app.
 
 <p align="center">
