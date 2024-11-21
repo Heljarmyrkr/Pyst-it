@@ -9,3 +9,5 @@ Open how many you want in your desktop!
 <p align="center">
   <img src="Images/pic1.png" alt="Imagem">
 </p>
+
+Full 1.0 version coming soon! 
