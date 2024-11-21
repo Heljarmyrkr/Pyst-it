@@ -12,7 +12,6 @@ A simple sticky notes app.
 🖥️ **Easy-to-use Interface**: Simple and intuitive interface with all essential features right at your fingertips.<br>
 🔒 **Privacy First**: Notes are stored locally on your computer, and you can choose whether to save them or not.<br>
 
-Open how many you want in your desktop!
 <p align="center">
   <img src="Images/pic1.png" alt="Imagem">
 </p>
