@@ -57,5 +57,3 @@ All rights to the name "Post-it" and the design of their products belong to **3M
     <h2>Made with</h2>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"/>
 </div>
-
----
