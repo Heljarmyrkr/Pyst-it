@@ -13,7 +13,7 @@ A simple sticky notes app.
 
 🖥️ **Easy-to-use Interface**: Simple and intuitive interface with all essential features right at your fingertips.<br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/619196e8-b390-4e13-8176-42b542161dad" alt="pyst-it">
+  <img src="gifs/pystit.gif" alt="pyst-it">
 </div>
 
 ---
