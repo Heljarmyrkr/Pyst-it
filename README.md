@@ -5,10 +5,6 @@ A simple sticky notes app.
   <img src="Images/logo.png" alt="Imagem">
 </p>
 
-💾 **Auto-save**: Your notes are automatically saved, ensuring you never lose your progress.<br>
-📝 **File Support**: Save and load notes in both `.txt` and `.json` formats.<br>
-🔒 **Privacy First**: Notes are stored locally on your computer, and you can choose whether to save them or not.<br>
-
 ---
 
 🖥️ **Easy-to-use Interface**: Simple and intuitive interface with all essential features right at your fingertips.<br>
@@ -29,6 +25,12 @@ A simple sticky notes app.
 <p align="center">
   <img src="Images/colors.png" alt="Imagem">
 </p>
+
+---
+
+💾 **Auto-save**: Your notes are automatically saved, ensuring you never lose your progress.<br>
+📝 **File Support**: Save and load notes in both `.txt` and `.json` formats.<br>
+🔒 **Privacy First**: Notes are stored locally on your computer, and you can choose whether to save them or not.<br>
 
 ---
 
