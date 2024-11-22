@@ -266,7 +266,7 @@ class App(ctk.CTk):
         self._load_auto_save()
 
     def _setup_window(self):
-        # Window settings
+        #Window settings
         self.title("Pyst-it")
         self.geometry(f"{self.config.width}x{self.config.height}")
         self.resizable(False, False)
