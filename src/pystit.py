@@ -260,7 +260,6 @@ class App(ctk.CTk):
         self.config = StickyNoteConfig()
         self._setup_window()
 
-        # Use o novo método de classe para carregar recursos
         self.images = self.load_resources()
 
         self._create_sticky_note()
@@ -278,13 +277,13 @@ class App(ctk.CTk):
         ctk.FontManager.load_font(self.get_resource_path("Sticky Notes.ttf"))
 
     def _create_sticky_note(self):
-        # Create the main post-it
+        #Create the main post-it
         color = random.choice(self.config.colors)
         self.current_note = StickyNote(self, self.config, color, self.images)
         self.current_note.pack(fill="both", expand=True)
 
     def _auto_save(self):
-        # Auto save the main post-it
+        #Auto save the main post-it
         auto_save_path = self.get_resource_path("auto_save.json")
         content = self.current_note.get_content()
 
