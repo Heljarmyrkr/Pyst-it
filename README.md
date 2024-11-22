@@ -20,7 +20,7 @@ A simple sticky notes app.
 
 ✨ **Multiple Notes**: Open as many sticky notes as you want on your desktop, each in a different color.<br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/cfdacaa2-64da-4b22-98f6-fcc1a6639fa4" alt="pyst-it">
+  <img src="gifs/multiplenotes.gif" alt="multiplenotes">
 </div>
 
 ---
