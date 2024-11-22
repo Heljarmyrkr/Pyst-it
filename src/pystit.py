@@ -31,7 +31,6 @@ class StickyNoteConfig:
                 "#E9806A",
                 "#F89C1D",
                 "#C7EC51",
-                "#C7EC51",
                 "#8BC6C4",
                 "#2FC8F2",
                 "#6C3499",
