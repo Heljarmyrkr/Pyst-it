@@ -25,11 +25,19 @@ A simple sticky notes app.
 
 ---
 
-🌈 **Random Colors**: 9 vibrant colors for your notes, or even a rare RGB color for a fun touch. (Can you get it?)<br>
+🌈 **Random Colors**: 8 vibrant colors for your notes, or even a rare RGB color for a fun touch. (Can you get it?)<br>
+<p align="center">
+  <img src="Images/colors.png" alt="Imagem">
+</p>
 
+---
+
+Start to use it now! 🚀
 <p align="center">
   <img src="Images/pic1.png" alt="Imagem">
 </p>
+
+---
 
 Full 1.0 version coming soon!<br>
 **Planned Features for Version 1.0:**
