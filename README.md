@@ -12,6 +12,12 @@ A simple sticky notes app.
 🖥️ **Easy-to-use Interface**: Simple and intuitive interface with all essential features right at your fingertips.<br>
 🔒 **Privacy First**: Notes are stored locally on your computer, and you can choose whether to save them or not.<br>
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/619196e8-b390-4e13-8176-42b542161dad" alt="pyst-it">
+</div>
+
+
+
 <p align="center">
   <img src="Images/pic1.png" alt="Imagem">
 </p>
