@@ -52,3 +52,10 @@ This project is a work of fiction, and any resemblance to real products is purel
 All rights to the name "Post-it" and the design of their products belong to **3M**.
 
 ---
+
+<div style="display: grid; grid-template-columns: auto auto; align-items: center; gap: 10px;">
+    <h2>Made with</h2>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" alt="python logo"/>
+</div>
+
+---
