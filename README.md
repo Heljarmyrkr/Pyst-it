@@ -5,18 +5,21 @@ A simple sticky notes app.
   <img src="Images/logo.png" alt="Imagem">
 </p>
 
-✨ **Multiple Notes**: Open as many sticky notes as you want on your desktop, each in a different color.<br>
 💾 **Auto-save**: Your notes are automatically saved, ensuring you never lose your progress.<br>
-🌈 **Random Colors**: 9 vibrant colors for your notes, or even a rare RGB color for a fun touch. (Can you get it?)<br>
 📝 **File Support**: Save and load notes in both `.txt` and `.json` formats.<br>
-🖥️ **Easy-to-use Interface**: Simple and intuitive interface with all essential features right at your fingertips.<br>
 🔒 **Privacy First**: Notes are stored locally on your computer, and you can choose whether to save them or not.<br>
 
+🖥️ **Easy-to-use Interface**: Simple and intuitive interface with all essential features right at your fingertips.<br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/619196e8-b390-4e13-8176-42b542161dad" alt="pyst-it">
 </div>
 
+✨ **Multiple Notes**: Open as many sticky notes as you want on your desktop, each in a different color.<br>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/cfdacaa2-64da-4b22-98f6-fcc1a6639fa4" alt="pyst-it">
+</div>
 
+🌈 **Random Colors**: 9 vibrant colors for your notes, or even a rare RGB color for a fun touch. (Can you get it?)<br>
 
 <p align="center">
   <img src="Images/pic1.png" alt="Imagem">
