@@ -39,6 +39,13 @@ Start to use it now! 🚀
   <img src="Images/pic1.png" alt="Imagem">
 </p>
 
+| **Downloads** | **For Windows** |
+|:-------------:|:---------------:|
+| ![Beta v0.9](https://badgen.net/badge/version/Beta%20v0.9/orange) | [⬇️ Download](https://github.com/Heljarmyrkr/Pyst-it/releases/download/v0.9-beta/Pyst-it.exe) |
+
+
+
+
 ---
 
 Full 1.0 version coming soon!<br>
