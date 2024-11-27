@@ -1,4 +1,4 @@
-# Pyst-it <img src="Images/iconicon.png" alt="Ícone" width="40"> (Beta 0.9)
+# Pyst-it <img src="Images/iconicon.png" alt="Ícone" width="40"> (Beta 0.9.1)
 A simple sticky notes app.
 
 <p align="center">
@@ -34,6 +34,8 @@ A simple sticky notes app.
 
 ---
 
+🔄 Beta 0.9.1: New drawing function added (currently in testing phase).
+
 Start to use it now! 🚀
 <p align="center">
   <img src="Images/pic1.png" alt="Imagem">
@@ -41,7 +43,9 @@ Start to use it now! 🚀
 
 | **Downloads** | **🪟 For Windows** |
 |:-------------:|:---------------:|
-| ![Beta v0.9](https://badgen.net/badge/version/Beta%20v0.9/orange) | [⬇️ Download](https://github.com/Heljarmyrkr/Pyst-it/releases/download/v0.9-beta/Pyst-it.exe) |
+| ![Beta v0.9](https://badgen.net/badge/version/Beta%20v0.9/green) | [⬇️ Download](https://github.com/Heljarmyrkr/Pyst-it/releases/download/v0.9-beta/Pyst-it.exe) |
+| ![Beta v0.9.1](https://badgen.net/badge/version/Beta%20v0.9.1/orange) | [⬇️ Download](https://github.com/Heljarmyrkr/Pyst-it/releases/download/v0.9.1-beta/Pyst-it.exe) |
+
 
 
 
