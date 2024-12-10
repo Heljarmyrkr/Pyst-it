@@ -35,6 +35,7 @@ A simple sticky notes app.
 ---
 
 🔄 Beta 0.9.1: New drawing function added (currently in testing phase).
+🔄 Beta 0.9.2: New notification function added.
 
 Start to use it now! 🚀
 <p align="center">
