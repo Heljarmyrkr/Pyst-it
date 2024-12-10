@@ -44,7 +44,8 @@ Start to use it now! 🚀
 | **Downloads** | **🪟 For Windows** |
 |:-------------:|:---------------:|
 | ![Beta v0.9](https://badgen.net/badge/version/Beta%20v0.9/green) | [⬇️ Download](https://github.com/Heljarmyrkr/Pyst-it/releases/download/v0.9-beta/Pyst-it.exe) |
-| ![Beta v0.9.1](https://badgen.net/badge/version/Beta%20v0.9.1/orange) | [⬇️ Download](https://github.com/Heljarmyrkr/Pyst-it/releases/download/v0.9.1-beta/Pyst-it.exe) |
+| ![Beta v0.9.1](https://badgen.net/badge/version/Beta%20v0.9.1/purple) | [⬇️ Download](https://github.com/Heljarmyrkr/Pyst-it/releases/download/v0.9.1-beta/Pyst-it.exe) |
+| ![Beta v0.9.2](https://badgen.net/badge/version/Beta%20v0.9.2/yellow) | [⬇️ Download](https://github.com/Heljarmyrkr/Pyst-it/releases/download/v0.9.2-beta/Pyst-it.exe) |
 
 
 
